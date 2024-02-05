@@ -29,11 +29,12 @@ background-color: black;
 
 .fa-xmark{
     display: none;
-}
-
-.xmark{
     font-size: 50px;
 }
+
+/* .xmark{
+    font-size: 50px;
+} */
 
 .menu{
      position: absolute;
