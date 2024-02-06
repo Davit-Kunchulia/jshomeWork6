@@ -20,12 +20,14 @@
 .burger_menu.show2{
     display:block
 }
-
-.burger_menu_divs{
+.fa-bars{
+    font-size: 50px;
+}
+/* .burger_menu_divs{
 width: 40px;
 height: 5px;
 background-color: black;
-}
+} */
 
 .fa-xmark{
     display: none;

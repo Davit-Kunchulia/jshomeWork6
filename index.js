@@ -7,11 +7,12 @@ let xMark = document.querySelector(".fa-xmark")
 
 let header = document.querySelector(".header")
 
+
+
+
 let isOpen = false
 
-    
 
-    
 burger.addEventListener("click", () => {
     if (!isOpen) {
     menu.classList.add("show")
