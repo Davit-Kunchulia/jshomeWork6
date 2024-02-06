@@ -21,13 +21,11 @@ burger.addEventListener("click", () => {
 
     xMark.style.display = "block"
 
+    burger.classList.remove("show2")
 
     isOpen = true
     }
 })
-
-
-
 
 xMark.addEventListener("click", () => {
 
